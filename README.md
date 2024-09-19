@@ -7,7 +7,7 @@ https://main--sensational-gnome-68749f.netlify.app/
 https://github.com/Santipr29/one-party-app.git
 
 ## Behance
-[Enlace al proyecto en Behance]
+https://www.behance.net/gallery/208285097/One-Party-Caso-UX
 
 ## Video Demostrativo
 [Enlace al video demostrativo]
